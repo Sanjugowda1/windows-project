@@ -1,0 +1,12 @@
+C:\Users\sshivanna\source\repos\WindowsProject\WindowsProject\bin\Debug\WindowsProject.exe.config
+C:\Users\sshivanna\source\repos\WindowsProject\WindowsProject\bin\Debug\WindowsProject.exe
+C:\Users\sshivanna\source\repos\WindowsProject\WindowsProject\bin\Debug\WindowsProject.pdb
+C:\Users\sshivanna\source\repos\WindowsProject\WindowsProject\obj\Debug\WindowsProject.csproj.AssemblyReference.cache
+C:\Users\sshivanna\source\repos\WindowsProject\WindowsProject\obj\Debug\WindowsProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\sshivanna\source\repos\WindowsProject\WindowsProject\obj\Debug\WindowsProject.Form1.resources
+C:\Users\sshivanna\source\repos\WindowsProject\WindowsProject\obj\Debug\WindowsProject.Properties.Resources.resources
+C:\Users\sshivanna\source\repos\WindowsProject\WindowsProject\obj\Debug\WindowsProject.csproj.GenerateResource.cache
+C:\Users\sshivanna\source\repos\WindowsProject\WindowsProject\obj\Debug\WindowsProject.csproj.CoreCompileInputs.cache
+C:\Users\sshivanna\source\repos\WindowsProject\WindowsProject\obj\Debug\WindowsProject.exe
+C:\Users\sshivanna\source\repos\WindowsProject\WindowsProject\obj\Debug\WindowsProject.pdb
+C:\Users\sshivanna\source\repos\WindowsProject\WindowsProject\obj\Debug\WindowsProject.CustomTable.resources
